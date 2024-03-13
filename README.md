@@ -7,4 +7,4 @@ Also, you build this or install jar file then.
 (I developed this in Java 17)
 
 # Attention
-On Windows, Windows Defender often detect this as Virus, but this is NOT a Virus!
+On Windows, Windows Defender often treats this as Virus, but this is NOT a Virus!
